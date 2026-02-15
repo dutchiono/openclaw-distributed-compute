@@ -1,0 +1,1 @@
+$file:docs/openclaw-compute-agent-architecture.md
